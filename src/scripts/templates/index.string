@@ -1,0 +1,30 @@
+<div class="m-index">
+      <div class="l-container"></div>
+  
+      <footer>
+			    <ul>
+					<li class="active" action-type="switch.tabs" data-tag="home">
+						<i class="yo-ico">&#xe66e;</i>
+						<b>首页</b>
+					</li>
+					<li action-type="switch.tabs" data-tag="classify">
+						<i class="yo-ico">&#xe606;</i>
+						<b>商品分类</b>
+					</li>
+					<li action-type="switch.tabs" data-tag="car">
+						 <i class="yo-ico">&#xe600;</i>
+						<b>购物车</b>
+					</li>
+					
+					<li action-type="switch.tabs" data-tag="center">
+						<i class="yo-ico">&#xe606;</i>
+						<b>个人中心</b>
+					</li>
+				</ul>
+				
+				
+		</footer>
+  
+  
+
+</div>

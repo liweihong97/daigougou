@@ -1,0 +1,27 @@
+<div class="cen-head">
+   <ul>
+   <li>注销</li>
+   <li>个人中心</li>
+   </ul>
+</div>
+<div class="cen-touxiangkuang">
+   <div class="cen-touxiang yo-ico">&#xe601;</div>
+   <div class="cen-yonghu">用户名</div>
+   <ul>
+     <li>积分10</li>
+     <li></li>
+     <li>预存款0.00</li>
+     <li></li>
+     <li>充值卡余额0.00</li>
+   </ul>
+</div>
+<div class="cen-list">
+   <ul>
+     <li><i class="yo-ico">&#xe60d;</i><em>我的订单</em></li>
+     <li><i class="yo-ico">&#xe629;</i><em>我的虚拟订单</em></li>
+     <li><i class="yo-ico">&#xe60f;</i><em>我的代金券</em></li>
+     <li><i class="yo-ico">&#xe607;</i><em>我的收藏</em></li>
+     <li><i class="yo-ico">&#xe609;</i><em>地址管理</em></li>
+     <li><i class="yo-ico">&#xe6a7;</i><em>浏览历史</em></li>
+   </ul>
+</div>

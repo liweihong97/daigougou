@@ -1,0 +1,73 @@
+ <div class="m-home">
+			<header><img src="/daigou/images/logo.png"/></header>
+			
+			<nav>
+				<ul>
+					<li class="active" action-type="tap.slide" >首页</li>
+					<li action-type="tap.slide" >10点闪购</li>
+					<li action-type="tap.slide">品牌团</li>
+					<li action-type="tap.slide" >万国馆</li>
+				</ul>
+			</nav>
+			
+			<div class="swiper-container" id="home-swiper">
+            <div class="swiper-wrapper">
+            <div class="swiper-slide">
+				<section spa-widget="scroll">
+				    <div>
+				    <ul>
+				       <li ms-repeat-value="livelist1">
+				       <img ms-src="value.imgsrc">
+                       <b ms-text="value.title"></b>
+                       </li>
+                    </ul>
+				   </div>
+				</section>
+			</div>
+			
+			 <div class="swiper-slide">10点闪购
+			     <section spa-widget="scroll">
+			        <div>
+					<ul>
+				       <li ms-repeat-value="livelist2">
+				       <img ms-src="value.imgsrc">
+                       <b ms-text="value.title"></b>
+                       </li>
+                    </ul>
+					</div>
+				</section>
+			 
+			 </div>
+			 <div class="swiper-slide">
+			     <section spa-widget="scroll">
+			        <div>
+					<ul ms-repeat-value="livelist3" id="list3">
+                       <li ms-attr-data-id="value[0].id">
+	                      <img ms-src="value[0].imgsrc">
+	                      <b ms-text="value[0].title"></b>
+	                      
+                       </li>
+	                   <li  ms-attr-data-id="value[1].id" ms-class-hide="!value[1]">
+	                      <img ms-src="value[1].imgsrc">
+	                      <b ms-text="value[1].title"></b>
+	                   </li>
+                    </ul>
+					</div>
+				</section>
+			 </div>
+			 <div class="swiper-slide">
+			    <section spa-widget="scroll">
+			        <div>
+					<ul>
+				       <li ms-repeat-value="livelist4">
+				           <b ms-text="value.title"></b>
+                           <img ms-src="value.imgsrc">
+                       </li>
+                    </ul>
+					</div>
+				</section>
+			 </div>
+			
+			</div>
+			</div>
+</div>

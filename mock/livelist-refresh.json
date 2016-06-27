@@ -1,0 +1,23 @@
+{
+  "res": true,
+  "errcode": -1,
+  "errmsg": "",
+  "data": [
+    {
+      "imgsrc": "/daigou/images/img1.jpg",
+      "title": "refresh万国代购1"
+    },
+    {
+      "imgsrc": "/daigou/images/img2.jpg",
+      "title": "refresh万国代购2"
+    },
+    {
+      "imgsrc": "/daigou/images/img3.jpg",
+      "title": "refresh万国代购3"
+    },
+    {
+      "imgsrc": "/daigou/images/img4.jpg",
+      "title": "refresh万国代购4"
+    }
+  ]
+}

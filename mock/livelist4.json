@@ -1,0 +1,54 @@
+{
+  "res": true,
+  "errcode": -1,
+  "errmsg": "",
+  "data": [
+    { 
+      
+      "imgsrc": "/daigou/images/meiguo.jpg",
+      "title": "美国代购"
+    },
+    {
+     
+      "imgsrc": "/daigou/images/aozhou.jpg",
+      "title": "澳洲代购"
+    },
+    {
+      
+      "imgsrc": "/daigou/images/deguo.jpg",
+      "title": "德国代购"
+    },
+    {
+      "imgsrc": "/daigou/images/meiguo.jpg",
+      "title": "美国代购"
+    },
+    {
+      "imgsrc": "/daigou/images/tu1.jpg",
+      "title": "万国代购5"
+    },
+    {
+      "imgsrc": "/daigou/images/tu2.jpg",
+      "title": "万国代购6"
+    },
+    {
+      "imgsrc": "/daigou/images/tu3.jpg",
+      "title": "万国代购7"
+    },
+    {
+      "imgsrc": "/daigou/images/tu3.jpg",
+      "title": "万国代购8"
+    },
+    {
+      "imgsrc": "/daigou/images/tu1.jpg",
+      "title": "万国代购9"
+    },
+    {
+      "imgsrc": "/daigou/images/tu2.jpg",
+      "title": "万国代购10"
+    },
+    {
+      "imgsrc": "/daigou/images/tu3.jpg",
+      "title": "万国代购11"
+    }
+  ]
+}

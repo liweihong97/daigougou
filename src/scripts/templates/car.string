@@ -1,0 +1,11 @@
+<div class="car-head">购物车</div>
+<div class="car-contain">
+   已选择商品
+</div>
+<div class="car-foot">
+   <ul>
+   <li><em>合计:</em><i>￥368.00</i></li>
+   <li></li>
+   <li><input type="button" value="去结算" class="car-button"/></li>
+   </ul>
+</div>

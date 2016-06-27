@@ -1,0 +1,23 @@
+<div class="cla">
+<div class="cla-head">
+   <div class="cla-sousuo">
+     <span> <img src="/daigou/images/ban-z.jpg"/></span>
+     <span class="yo-ico">&#xe610;</span>
+     <input type="text" class="cla-input" value="搜索商品"/>
+     <span> <img src="/daigou/images/ban-y.jpg"/></span>
+   </div>
+</div>
+<div class="cla-contain">
+  <ul>
+    <li class="cla-tab1" action-type="tap.slide">营养保健</li>
+    <li class="cla-tab2" action-type="tap.slide">进口奶粉</li>
+    <li class="cla-tab3" action-type="tap.slide">母婴用品</li>
+    <li class="cla-tab4" action-type="tap.slide">各户彩妆</li>
+    <li class="cla-tab5" action-type="tap.slide">家具电器</li>
+    <li class="cla-tab6" action-type="tap.slide">轻奢尚品</li>
+    <li class="cla-tab7" action-type="tap.slide">进口美食</li>
+    <li class="cla-tab8" action-type="tap.slide">运动户外</li>
+    
+  </ul>
+</div>
+</div>

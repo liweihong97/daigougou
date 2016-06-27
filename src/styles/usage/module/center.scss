@@ -1,0 +1,150 @@
+.cen-head{
+    width: 100%;
+    height: .44rem;
+    ul{
+        width: 100%;
+        height: .44rem;
+        @include flexbox();
+        li{
+            
+            color: #d83f75;
+            height: .44rem;
+            line-height: .44rem;
+            font-weight: 600;
+        }
+        li:nth-child(1){
+           @include flex(1);
+           font-size: .12rem; 
+           margin-left: .06rem;
+        }
+        li:nth-child(2){
+            @include flex(2);
+            font-size: .16rem;
+        }
+    }
+}
+.cen-touxiangkuang{
+    width: 100%;
+    height: 1rem;
+    line-height: 1rem;
+    background: #8f4c6f;
+    @include flexbox();
+    position: relative;
+    
+    .cen-touxiang{
+       @include flex(1);
+       margin-top: .2rem;
+       height: .50rem;
+       line-height: .50rem;
+       font-size: .30rem;
+       border-radius: 50%; 
+       border: 2px solid #fff;
+       background: #ccc;
+       margin-left: .1rem;
+       text-align: center;
+    }
+    .cen-yonghu{
+       height: .90rem;
+       line-height: .90rem;
+       font-size: .20rem;
+       color: #fff;
+        @include flex(5);
+        margin-left: .1rem;
+    }
+    ul{
+        width: 100%;
+        position: absolute;
+        left: 0;
+        bottom: 0;
+        height: .20rem;
+        @include flexbox();
+        li{
+            height: .20rem;
+            line-height:.20rem;
+            
+            &:nth-child(1),&:nth-child(3),&:nth-child(5){
+                @include flex(20);
+                background:  #000;
+                opacity:.8;
+                text-align: center;
+                color:#fff;
+                font-size:.1rem;   
+            }
+            &:nth-child(2),&:nth-child(4){
+                @include flex(1);
+                //background:  #8f4c6f;
+                opacity:.6px;
+//              color:#fff;
+//              font-size:.1rem;   
+            }
+        }
+    }
+}
+.cen-list{
+   width: 100%;
+   
+   ul{
+         width: 100%;
+//      @include flexbox();
+//      @include flex-direction(column); 
+       li{
+          width: 100%;
+          // @include flex(1);
+           @include flexbox();
+          height: .44rem;
+          line-height: .44rem;
+          border-top: 1px solid #ccc;
+           background: #fff;
+           font-size: .12rem;
+
+             i{
+               @include flex(1);  
+               margin-left: .1rem;
+               font-size: .20rem;
+               
+                   
+             }  
+             em{
+               @include flex(10);  
+                font-size: .16rem;                     
+             }
+             &:last-child{
+                 border-bottom: 1px solid #ccc;
+             }
+                  &:nth-child(1),&:nth-child(2){
+                       i{
+                     color:#b09a74;
+                     }  
+                   }
+                   &:nth-child(3){
+                       i{
+                        color: #bf8839;  
+                      }
+                       
+                   }
+                   &:nth-child(4){
+                       i{
+                         color: #f00; 
+                      }
+                       
+                   }
+                   &:nth-child(5){
+                       i{
+                         color: #66a055; 
+                      }
+                       
+                   }
+                   &:nth-child(6){
+                       i{
+                         color: #b39a74; 
+                      }
+                       
+                   }
+       }
+   
+   
+   
+   }  
+     
+}
+

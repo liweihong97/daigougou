@@ -1,0 +1,55 @@
+{
+  "res": true,
+  "errcode": -1,
+  "errmsg": "",
+  "data": [
+    {
+      "id":1,
+      "imgsrc": "/daigou/images/pinpai1.jpg",
+      "title": "万国代购1"
+    },
+    { 
+      "id":2,
+      "imgsrc": "/daigou/images/pinpai2.jpg",
+      "title": "万国代购2"
+    },
+    {
+      "id":3,
+      "imgsrc": "/daigou/images/pinpai3.jpg",
+      "title": "万国代购3"
+    },
+    {
+      "id":4,
+      "imgsrc": "/daigou/images/pinpai4.jpg",
+      "title": "万国代购4"
+    },
+    {
+      "imgsrc": "/daigou/images/pinpai5.jpg",
+      "title": "万国代购5"
+    },
+    {
+      "imgsrc": "/daigou/images/pinpai6.jpg",
+      "title": "万国代购6"
+    },
+    {
+      "imgsrc": "/daigou/images/pinpai7.jpg",
+      "title": "万国代购7"
+    },
+    {
+      "imgsrc": "/daigou/images/pinpai7.jpg",
+      "title": "万国代购8"
+    },
+    {
+      "imgsrc": "/daigou/images/pinpai7.jpg",
+      "title": "万国代购9"
+    },
+    {
+      "imgsrc": "/daigou/images/pinpai7.jpg",
+      "title": "万国代购10"
+    },
+    {
+      "imgsrc": "/daigou/images/pinpai7.jpg",
+      "title": "万国代购11"
+    }
+  ]
+}

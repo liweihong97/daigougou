@@ -1,0 +1,55 @@
+.car-head{
+ width: 100%;
+ height:.44rem;
+ line-height: .44rem;
+ background: #eee;
+ color: #e63174;
+ font-size: .18rem;   
+ text-align: center;
+ font-weight: 600;
+}
+.car-contain{
+    width: 100%;
+    background: #fff;
+    height: 1.05rem;
+    
+}
+.car-foot{
+    width: 100%;
+    height: .46rem;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    ul{
+        @include flexbox();
+        li{
+            @include flex(1);
+        }
+        &:nth-child(1){
+           span{
+            height: .46rem;
+            em{
+                width: 20%;
+                height: 100%;
+                color: #3c3c3c;
+                font-size:.16rem;
+            }
+            i{
+               width: 20%;
+                height: 100%;
+                color: #f74193;
+                font-size:.16rem; 
+            }
+           } 
+          }
+        &.car-button{
+        width:.50rem;
+        height: .30rem;
+        line-height: .30rem;
+        
+    }
+    
+    }
+    
+    
+}
